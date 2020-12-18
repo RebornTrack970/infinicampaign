@@ -1,0 +1,7 @@
+name: "autocapture"
+displayName: "AutoCapture"
+author: "[yellow]RT[cyan]Omega"
+description: "h"
+version: "1.0"
+minGameVersion: 120
+hidden: true
