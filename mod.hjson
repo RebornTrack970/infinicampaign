@@ -1,7 +1,7 @@
 name: "inficamp"
 displayName: "InfiniCampaign"
 author: "[yellow]RT[cyan]Omega"
-description: "h"
+description: "A mod that makes the game V5 ish by making you unable to capture."
 version: "1.0"
 minGameVersion: 120
 hidden: true
